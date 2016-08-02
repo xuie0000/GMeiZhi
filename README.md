@@ -3,7 +3,7 @@ GMeiZhi
 
 这个项目是用[Meizhi](https://github.com/drakeet/Meizhi)，改数据库为Realm与使用Google MVP，如果对上两个框架感兴趣，可以参考，其它还是请参考原作者项目，TK！
 
-![](screenshoot/gmeizhi.gif)
+![](screenshot/gmeizhi.gif)
 
 参考
 ---
